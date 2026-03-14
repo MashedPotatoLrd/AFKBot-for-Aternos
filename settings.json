@@ -1,4 +1,4 @@
-{
+1{
   "name": "AFK Bot",
   "bot-account": {
     "username": "AternosBotAFK",
@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OSMVsmp.aternos.me,
+    "ip": "OSMVsmp.aternos.me",
     "port": 44255,
     "version": "",
     "try-creative": false
